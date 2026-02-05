@@ -1,0 +1,542 @@
+{
+    "en": {
+        "navigation": {
+            "links": [
+                {
+                    "label": "What You Learn",
+                    "id": "features"
+                },
+                {
+                    "label": "About",
+                    "id": "instructor"
+                },
+                {
+                    "label": "Reviews",
+                    "id": "testimonials"
+                },
+                {
+                    "label": "Pricing",
+                    "id": "pricing"
+                },
+                {
+                    "label": "FAQ",
+                    "id": "faq"
+                }
+            ],
+            "buttons": {
+                "lang": [
+                    "EN",
+                    "AR"
+                ],
+                "login": "Sign In",
+                "start": "Get Started"
+            }
+        },
+        "hero": {
+            "badge": "New • Latest Cohort",
+            "titlePrefix": "Get a Job & Side Income",
+            "titleSuffix": "in 31 Sessions",
+            "description": "In today's world and with the current economic conditions, every individual must have at least one online side job to earn hundreds of dollars daily. Learn how in just two months!",
+            "ctaPrimary": "Join the Young Millionaires",
+            "ctaSecondary": "Watch Video"
+        },
+        "features": {
+            "title": "In today's world, learning these skills is not optional — it is mandatory!",
+            "description": "Learn as much as a university education in 60 days. Master the skills that actually generate income.",
+            "items": [
+                {
+                    "icon": "TrendingUp",
+                    "title": "Investing & Trading",
+                    "description": "From beginner to advanced. Technical, Fundamental, and On-Chain analysis for crypto and stocks."
+                },
+                {
+                    "icon": "ShoppingCart",
+                    "title": "E-Commerce Mastery",
+                    "description": "Amazon A to Z, product research, Jungle Scout, FBA, Wholesale, and dropshipping strategies."
+                },
+                {
+                    "icon": "Video",
+                    "title": "Content Creation",
+                    "description": "Monetization on YouTube, Facebook, TikTok, and Instagram. Build your personal brand."
+                },
+                {
+                    "icon": "Bot",
+                    "title": "AI & Automation",
+                    "description": "ChatGPT, Midjourney, and cutting-edge tools to 10x your productivity and business."
+                },
+                {
+                    "icon": "Briefcase",
+                    "title": "Agency & Branding",
+                    "description": "Personal branding, copywriting, digital marketing agency setup, and LLC formation."
+                },
+                {
+                    "icon": "Globe",
+                    "title": "Freelancing",
+                    "description": "Master platforms like Upwork, Fiverr, and remote work strategies for global clients."
+                }
+            ]
+        },
+        "instructor": {
+            "name": "Muhammad Arshad",
+            "role": "Founder & Lead Mentor",
+            "title": "Meet Your Instructor",
+            "heading": "I have transformed the lives of thousands of people worldwide",
+            "description": "Hello, I am Muhammad Arshad — from humble beginnings to the world's third-ranked university. With over 10 years of experience in online business, trading, and content creation, I've helped thousands achieve financial freedom. My mission is to share the exact strategies that worked for me.",
+            "featuredText": "AS FEATURED IN",
+            "stats": [
+                {
+                    "label": "Students Trained",
+                    "value": "10,000+"
+                },
+                {
+                    "label": "Countries Reached",
+                    "value": "45+"
+                },
+                {
+                    "label": "Success Rate",
+                    "value": "94%"
+                }
+            ]
+        },
+        "testimonials": {
+            "title": "What Our Students Say",
+            "subtitle": "Real results from real students who transformed their lives",
+            "items": [
+                {
+                    "name": "Ahmed Hassan",
+                    "role": "E-Commerce Entrepreneur",
+                    "avatar": "AH",
+                    "rating": 5,
+                    "text": "Within 3 months of completing the course, I launched my Amazon store and made my first $5,000. The step-by-step guidance was invaluable!"
+                },
+                {
+                    "name": "Fatima Al-Rashid",
+                    "role": "Content Creator",
+                    "avatar": "FA",
+                    "rating": 5,
+                    "text": "I went from 0 to 50K followers on Instagram and now earn consistently from brand deals. Muhammad's strategies are pure gold!"
+                },
+                {
+                    "name": "Omar Khalid",
+                    "role": "Crypto Trader",
+                    "avatar": "OK",
+                    "rating": 5,
+                    "text": "The trading modules alone were worth 10x the investment. I now trade confidently and have a solid portfolio."
+                },
+                {
+                    "name": "Sara Noor",
+                    "role": "Freelancer",
+                    "avatar": "SN",
+                    "rating": 5,
+                    "text": "I quit my 9-5 job after 6 months. Now I work from anywhere and earn more than I ever did in an office!"
+                }
+            ]
+        },
+        "pricing": {
+            "title": "Investment in Your Future",
+            "description": "Choose the payment plan that works best for you. Installment option available for the first 15 days only.",
+            "plans": [
+                {
+                    "title": "2 Installments",
+                    "price": "199",
+                    "period": "per installment",
+                    "features": [
+                        "Pay 50% now, 50% next month",
+                        "Full access to all 31 sessions",
+                        "Lifetime access to recordings",
+                        "Private community access",
+                        "Flexible payment schedule"
+                    ],
+                    "button": "Choose Installment Plan",
+                    "isPopular": false
+                },
+                {
+                    "title": "One-Time Payment",
+                    "price": "349",
+                    "period": "total",
+                    "features": [
+                        "Save €49 vs installments",
+                        "Full access to all 31 sessions",
+                        "Lifetime access to recordings",
+                        "Private community access",
+                        "1-on-1 mentorship call",
+                        "Exclusive bonus materials"
+                    ],
+                    "button": "Get Full Access Now",
+                    "isPopular": true
+                }
+            ]
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "subtitle": "Still have questions? Contact our support team anytime.",
+            "items": [
+                {
+                    "q": "I don't know English, what should I do?",
+                    "a": "All instruction is in Farsi (Persian). English knowledge is helpful but not required — it's a bonus skill you'll develop along the way."
+                },
+                {
+                    "q": "What is the class schedule?",
+                    "a": "Class times are decided by community vote to accommodate different time zones. All sessions are recorded and available immediately for replay."
+                },
+                {
+                    "q": "Is having a computer necessary?",
+                    "a": "A computer is recommended for optimal practice, especially for trading and e-commerce modules. However, you can start learning with just a mobile device."
+                },
+                {
+                    "q": "What if I can't attend live sessions?",
+                    "a": "No problem! All sessions are recorded and uploaded within hours. You get lifetime access to all materials."
+                },
+                {
+                    "q": "Is there a money-back guarantee?",
+                    "a": "Yes! If you're not satisfied within the first 7 days, we offer a full refund — no questions asked."
+                }
+            ]
+        },
+        "footer": {
+            "description": "The largest and most prestigious educational platform for money-making skills in the region. Join thousands who have transformed their financial future.",
+            "columns": [
+                {
+                    "title": "Academy",
+                    "links": [
+                        {
+                            "label": "About Us",
+                            "href": "#instructor"
+                        },
+                        {
+                            "label": "Courses",
+                            "href": "#features"
+                        },
+                        {
+                            "label": "Testimonials",
+                            "href": "#testimonials"
+                        },
+                        {
+                            "label": "Pricing",
+                            "href": "#pricing"
+                        }
+                    ]
+                },
+                {
+                    "title": "Resources",
+                    "links": [
+                        {
+                            "label": "Blog",
+                            "href": "#"
+                        },
+                        {
+                            "label": "Free Guides",
+                            "href": "#"
+                        },
+                        {
+                            "label": "YouTube Channel",
+                            "href": "#"
+                        },
+                        {
+                            "label": "Community",
+                            "href": "#"
+                        }
+                    ]
+                },
+                {
+                    "title": "Support",
+                    "links": [
+                        {
+                            "label": "FAQ",
+                            "href": "#faq"
+                        },
+                        {
+                            "label": "Contact Us",
+                            "href": "#"
+                        },
+                        {
+                            "label": "Terms of Service",
+                            "href": "#"
+                        },
+                        {
+                            "label": "Privacy Policy",
+                            "href": "#"
+                        }
+                    ]
+                }
+            ],
+            "social": {
+                "twitter": "https://twitter.com",
+                "instagram": "https://instagram.com",
+                "youtube": "https://youtube.com",
+                "linkedin": "https://linkedin.com"
+            },
+            "copyright": "© 2026 Mabrook Academy. All rights reserved."
+        }
+    },
+    "ar": {
+        "navigation": {
+            "links": [
+                {
+                    "label": "ماذا ستتعلم",
+                    "id": "features"
+                },
+                {
+                    "label": "عن المدرب",
+                    "id": "instructor"
+                },
+                {
+                    "label": "آراء الطلاب",
+                    "id": "testimonials"
+                },
+                {
+                    "label": "الأسعار",
+                    "id": "pricing"
+                },
+                {
+                    "label": "الأسئلة الشائعة",
+                    "id": "faq"
+                }
+            ],
+            "buttons": {
+                "lang": [
+                    "EN",
+                    "AR"
+                ],
+                "login": "تسجيل الدخول",
+                "start": "ابدأ الآن"
+            }
+        },
+        "hero": {
+            "badge": "جديد • أحدث دورة",
+            "titlePrefix": "احصل على وظيفة ودخل إضافي",
+            "titleSuffix": "في ٣١ جلسة",
+            "description": "في عالم اليوم ومع الظروف الاقتصادية الحالية، يجب على كل فرد أن يكون لديه عمل جانبي واحد على الأقل عبر الإنترنت لكسب مئات الدولارات يومياً. تعلم كيف في شهرين فقط!",
+            "ctaPrimary": "انضم إلى المليونيرات الشباب",
+            "ctaSecondary": "شاهد الفيديو"
+        },
+        "features": {
+            "title": "في عالم اليوم، تعلم هذه المهارات ليس اختيارياً — إنه إلزامي!",
+            "description": "تعلم بقدر ما تتعلمه في الجامعة خلال ٦٠ يوماً. اكتسب المهارات التي تولد الدخل فعلاً.",
+            "items": [
+                {
+                    "icon": "TrendingUp",
+                    "title": "الاستثمار والتداول",
+                    "description": "من المبتدئ إلى المتقدم. التحليل الفني والأساسي والتحليل على السلسلة للعملات الرقمية والأسهم."
+                },
+                {
+                    "icon": "ShoppingCart",
+                    "title": "إتقان التجارة الإلكترونية",
+                    "description": "أمازون من الألف إلى الياء، بحث المنتجات، Jungle Scout، FBA، البيع بالجملة، واستراتيجيات الدروبشيبينغ."
+                },
+                {
+                    "icon": "Video",
+                    "title": "صناعة المحتوى",
+                    "description": "تحقيق الدخل على يوتيوب وفيسبوك وتيك توك وإنستغرام. ابنِ علامتك التجارية الشخصية."
+                },
+                {
+                    "icon": "Bot",
+                    "title": "الذكاء الاصطناعي والأتمتة",
+                    "description": "ChatGPT، Midjourney، وأحدث الأدوات لمضاعفة إنتاجيتك وعملك ١٠ مرات."
+                },
+                {
+                    "icon": "Briefcase",
+                    "title": "الوكالات والعلامات التجارية",
+                    "description": "العلامة التجارية الشخصية، كتابة الإعلانات، إنشاء وكالة تسويق رقمي، وتأسيس شركة."
+                },
+                {
+                    "icon": "Globe",
+                    "title": "العمل الحر",
+                    "description": "إتقان منصات مثل Upwork و Fiverr واستراتيجيات العمل عن بُعد للعملاء العالميين."
+                }
+            ]
+        },
+        "instructor": {
+            "name": "محمد أرشد",
+            "role": "المؤسس والمدرب الرئيسي",
+            "title": "تعرف على مدربك",
+            "heading": "لقد غيّرت حياة الآلاف من الناس حول العالم",
+            "description": "مرحباً، أنا محمد أرشد — من بدايات متواضعة إلى ثالث أفضل جامعة في العالم. مع أكثر من ١٠ سنوات من الخبرة في الأعمال التجارية عبر الإنترنت والتداول وصناعة المحتوى، ساعدت الآلاف على تحقيق الحرية المالية. مهمتي هي مشاركة الاستراتيجيات الدقيقة التي نجحت معي.",
+            "featuredText": "ظهر في",
+            "stats": [
+                {
+                    "label": "طالب تم تدريبهم",
+                    "value": "+١٠,٠٠٠"
+                },
+                {
+                    "label": "دولة تم الوصول إليها",
+                    "value": "+٤٥"
+                },
+                {
+                    "label": "نسبة النجاح",
+                    "value": "٪٩٤"
+                }
+            ]
+        },
+        "testimonials": {
+            "title": "ماذا يقول طلابنا",
+            "subtitle": "نتائج حقيقية من طلاب حقيقيين غيّروا حياتهم",
+            "items": [
+                {
+                    "name": "أحمد حسن",
+                    "role": "رائد أعمال في التجارة الإلكترونية",
+                    "avatar": "أح",
+                    "rating": 5,
+                    "text": "خلال ٣ أشهر من إكمال الدورة، أطلقت متجري على أمازون وحققت أول ٥٠٠٠ دولار. التوجيه خطوة بخطوة كان لا يُقدر بثمن!"
+                },
+                {
+                    "name": "فاطمة الراشد",
+                    "role": "صانعة محتوى",
+                    "avatar": "فر",
+                    "rating": 5,
+                    "text": "انتقلت من ٠ إلى ٥٠ ألف متابع على إنستغرام والآن أكسب باستمرار من صفقات العلامات التجارية. استراتيجيات محمد ذهب خالص!"
+                },
+                {
+                    "name": "عمر خالد",
+                    "role": "متداول عملات رقمية",
+                    "avatar": "عخ",
+                    "rating": 5,
+                    "text": "وحدات التداول وحدها كانت تستحق ١٠ أضعاف الاستثمار. الآن أتداول بثقة ولدي محفظة قوية."
+                },
+                {
+                    "name": "سارة نور",
+                    "role": "عاملة حرة",
+                    "avatar": "سن",
+                    "rating": 5,
+                    "text": "تركت وظيفتي ٩-٥ بعد ٦ أشهر. الآن أعمل من أي مكان وأكسب أكثر مما كنت أكسبه في المكتب!"
+                }
+            ]
+        },
+        "pricing": {
+            "title": "استثمر في مستقبلك",
+            "description": "اختر خطة الدفع التي تناسبك. خيار التقسيط متاح لأول ١٥ يوماً فقط.",
+            "plans": [
+                {
+                    "title": "دفعتين",
+                    "price": "١٩٩",
+                    "period": "لكل قسط",
+                    "features": [
+                        "ادفع ٥٠٪ الآن، ٥٠٪ الشهر القادم",
+                        "وصول كامل لجميع الجلسات الـ٣١",
+                        "وصول مدى الحياة للتسجيلات",
+                        "الوصول للمجتمع الخاص",
+                        "جدول دفع مرن"
+                    ],
+                    "button": "اختر خطة التقسيط",
+                    "isPopular": false
+                },
+                {
+                    "title": "دفعة واحدة",
+                    "price": "٣٤٩",
+                    "period": "إجمالي",
+                    "features": [
+                        "وفر ٤٩€ مقارنة بالتقسيط",
+                        "وصول كامل لجميع الجلسات الـ٣١",
+                        "وصول مدى الحياة للتسجيلات",
+                        "الوصول للمجتمع الخاص",
+                        "مكالمة إرشاد فردية",
+                        "مواد إضافية حصرية"
+                    ],
+                    "button": "احصل على الوصول الكامل الآن",
+                    "isPopular": true
+                }
+            ]
+        },
+        "faq": {
+            "title": "الأسئلة الشائعة",
+            "subtitle": "لا تزال لديك أسئلة؟ تواصل مع فريق الدعم في أي وقت.",
+            "items": [
+                {
+                    "q": "لا أعرف الإنجليزية، ماذا أفعل؟",
+                    "a": "جميع التعليمات باللغة الفارسية. معرفة الإنجليزية مفيدة لكنها ليست مطلوبة — إنها مهارة إضافية ستطورها على طول الطريق."
+                },
+                {
+                    "q": "ما هو جدول الفصول؟",
+                    "a": "يتم تحديد أوقات الفصول من خلال تصويت المجتمع لاستيعاب المناطق الزمنية المختلفة. جميع الجلسات مسجلة ومتاحة فوراً للإعادة."
+                },
+                {
+                    "q": "هل امتلاك كمبيوتر ضروري؟",
+                    "a": "يُوصى بالكمبيوتر للممارسة المثلى، خاصة لوحدات التداول والتجارة الإلكترونية. ومع ذلك، يمكنك البدء في التعلم بجهاز محمول فقط."
+                },
+                {
+                    "q": "ماذا لو لم أستطع حضور الجلسات المباشرة؟",
+                    "a": "لا مشكلة! جميع الجلسات مسجلة ويتم رفعها خلال ساعات. تحصل على وصول مدى الحياة لجميع المواد."
+                },
+                {
+                    "q": "هل هناك ضمان استرداد الأموال؟",
+                    "a": "نعم! إذا لم تكن راضياً خلال أول ٧ أيام، نقدم استرداداً كاملاً — بدون أي أسئلة."
+                }
+            ]
+        },
+        "footer": {
+            "description": "أكبر وأرقى منصة تعليمية لمهارات كسب المال في المنطقة. انضم إلى الآلاف الذين غيّروا مستقبلهم المالي.",
+            "columns": [
+                {
+                    "title": "الأكاديمية",
+                    "links": [
+                        {
+                            "label": "من نحن",
+                            "href": "#instructor"
+                        },
+                        {
+                            "label": "الدورات",
+                            "href": "#features"
+                        },
+                        {
+                            "label": "آراء الطلاب",
+                            "href": "#testimonials"
+                        },
+                        {
+                            "label": "الأسعار",
+                            "href": "#pricing"
+                        }
+                    ]
+                },
+                {
+                    "title": "الموارد",
+                    "links": [
+                        {
+                            "label": "المدونة",
+                            "href": "#"
+                        },
+                        {
+                            "label": "أدلة مجانية",
+                            "href": "#"
+                        },
+                        {
+                            "label": "قناة يوتيوب",
+                            "href": "#"
+                        },
+                        {
+                            "label": "المجتمع",
+                            "href": "#"
+                        }
+                    ]
+                },
+                {
+                    "title": "الدعم",
+                    "links": [
+                        {
+                            "label": "الأسئلة الشائعة",
+                            "href": "#faq"
+                        },
+                        {
+                            "label": "اتصل بنا",
+                            "href": "#"
+                        },
+                        {
+                            "label": "شروط الخدمة",
+                            "href": "#"
+                        },
+                        {
+                            "label": "سياسة الخصوصية",
+                            "href": "#"
+                        }
+                    ]
+                }
+            ],
+            "social": {
+                "twitter": "https://twitter.com",
+                "instagram": "https://instagram.com",
+                "youtube": "https://youtube.com",
+                "linkedin": "https://linkedin.com"
+            },
+            "copyright": "© ٢٠٢٦ أكاديمية مبروك. جميع الحقوق محفوظة."
+        }
+    }
+}
