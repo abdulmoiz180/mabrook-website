@@ -21,22 +21,62 @@ const rubik = Rubik({
 });
 
 export const metadata: Metadata = {
-  title: "Mabrook Academy | Get a Job & Side Income in 31 Sessions",
-  description: "The largest and most prestigious educational platform for money-making skills. Learn investing, trading, e-commerce, content creation, AI, and more in just 60 days.",
-  keywords: ["online course", "side income", "trading", "e-commerce", "content creation", "AI", "financial freedom", "Mabrook Academy"],
+  title: "Mabrook Academy – Online Skills & Income Training Platform",
+  description:
+    "Mabrook Academy is a professional online learning platform helping students build high-income skills in trading, e-commerce, content creation, AI, and investing.",
+
+  keywords: [
+    "Mabrook Academy",
+    "online academy",
+    "skills training",
+    "side income",
+    "trading courses",
+    "e-commerce training",
+    "AI courses",
+    "financial education"
+  ],
+
   authors: [{ name: "Muhammad Arshad" }],
+  creator: "Mabrook Academy",
+  publisher: "Mabrook Academy",
+
+  metadataBase: new URL("https://www.mabrookacademy.com"),
+  alternates: {
+    canonical: "/",
+  },
+
   openGraph: {
-    title: "Mabrook Academy | Transform Your Financial Future",
-    description: "Join 10,000+ students who have achieved financial freedom. Learn from Muhammad Arshad.",
+    title: "Mabrook Academy – Learn Skills That Pay",
+    description:
+      "Join thousands of students learning practical income-generating skills with Mabrook Academy.",
+    url: "https://www.mabrookacademy.com",
+    siteName: "Mabrook Academy",
+    images: [
+      {
+        url: "https://www.mabrookacademy.com/og-image.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Mabrook Academy",
+      },
+    ],
     type: "website",
     locale: "en_US",
   },
+
   twitter: {
     card: "summary_large_image",
-    title: "Mabrook Academy | Get a Job & Side Income in 31 Sessions",
-    description: "Learn investing, trading, e-commerce, content creation, and AI in just 60 days.",
+    title: "Mabrook Academy – Online Skills & Income Training",
+    description:
+      "Practical courses in trading, e-commerce, AI, and content creation.",
+    images: ["https://www.mabrookacademy.com/og-image.jpg"],
+  },
+
+  robots: {
+    index: true,
+    follow: true,
   },
 };
+
 
 export default function RootLayout({
   children,
